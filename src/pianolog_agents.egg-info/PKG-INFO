@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: pianolog-agents
+Version: 0.1.0
+Summary: Agentic AI pipeline for piano practice logging
+Author: Sebastián
+Requires-Python: >=3.10
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: gradio
+Requires-Dist: pydantic
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
