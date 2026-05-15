@@ -1,8 +1,0 @@
-pyproject.toml
-src/pianolog/__init__.py
-src/pianolog/db.py
-src/pianolog_agents.egg-info/PKG-INFO
-src/pianolog_agents.egg-info/SOURCES.txt
-src/pianolog_agents.egg-info/dependency_links.txt
-src/pianolog_agents.egg-info/requires.txt
-src/pianolog_agents.egg-info/top_level.txt
