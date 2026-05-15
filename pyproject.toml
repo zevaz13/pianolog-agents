@@ -1,0 +1,16 @@
+[project]
+name = "pianolog-agents"
+version = "0.1.0"
+description = "Agentic AI pipeline for piano practice logging"
+authors = [{ name = "Sebastián" }]
+requires-python = ">=3.10"
+
+dependencies = [
+    "openai",
+    "python-dotenv",
+    "gradio",
+    "pydantic",
+    "numpy",
+    "pandas",
+    "matplotlib",
+]
